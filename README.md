@@ -24,6 +24,9 @@ void haegri(int hradi) {
     analogWrite(HRADI, hradi);
 }
 
+
+
+
 #include <Servo.h> // Sambærilegt og import í python
 #include "tdelay.h"
 
