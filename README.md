@@ -5,4 +5,4 @@ Verkefnið sem að við strákarnir ákváðum að gera er "grave grabber" vegna
 
 Efni Notað: Pvc Rör, Led ljós, 3d prentuð beinagrind, skrúfur og servo mótor.
 
-Tómas Darri Geirsson, Eiður Breki Bjarkason, Bjarki Logason, Andri Fannar Hreggviðsson
+Andri Fannar Hreggviðsson, Bjarki Logason, Eiður Breki Bjarkason, Tómas Darri Geirsson, 
