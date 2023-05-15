@@ -7,3 +7,4 @@ Efni Notað: Pvc Rör, Led ljós, 3d prentuð beinagrind, skrúfur og servo mót
 
 Andri Fannar Hreggviðsson, Bjarki Logason, Eiður Breki Bjarkason, Tómas Darri Geirsson, 
 ![mynd](https://github.com/BjarkiLogason/Verkefni-5/blob/main/images/mynd%20verkefni%205%20.jpg)
+![mynd-2](https://github.com/BjarkiLogason/Verkefni-5/blob/main/images/mynd%20verkefni%205%20-%202.jpg)
